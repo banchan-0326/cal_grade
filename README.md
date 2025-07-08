@@ -24,7 +24,7 @@
 ├── index.html                # 메인 HTML 파일
 ├── package-lock.json         # npm 패키지 잠금 파일
 ├── package.json              # 프로젝트 메타데이터 및 의존성
-├── placeholder_classroom.svg # 자습실 전개도 예시 이미지
+├── placeholder_classroom.png # 자습실 전개도 예시 이미지 (PNG)
 ├── README.md                 # 프로젝트 설명 및 사용법 (이 파일)
 ├── script.js                 # 프론트엔드 JavaScript 로직
 ├── server.js                 # 백엔드 서버 로직
@@ -81,5 +81,5 @@
 
 ## 추가 정보
 
-*   자습실 전개도 (`placeholder_classroom.svg`)는 현재 예시 이미지입니다. 실제 환경에 맞게 이미지를 교체하거나 수정할 수 있습니다.
+*   자습실 전개도 (`placeholder_classroom.png`)는 현재 예시 이미지입니다. 실제 환경에 맞게 이미지를 교체하거나 수정하여 프로젝트 루트 디렉토리에 해당 이름으로 저장해야 합니다.
 *   `server.js`의 `PORT` 변수를 수정하여 다른 포트에서 서버를 실행할 수 있습니다.
