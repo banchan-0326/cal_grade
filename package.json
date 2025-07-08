@@ -1,0 +1,21 @@
+{
+  "name": "where-is-sangchan",
+  "version": "1.0.0",
+  "description": "Real-time location sharing app for Sangchan's whereabouts.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "real-time",
+    "location",
+    "sangchan"
+  ],
+  "author": "Jules AI Assistant",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  }
+}
